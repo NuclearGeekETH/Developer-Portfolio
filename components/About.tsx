@@ -15,12 +15,12 @@ export default function About() {
                         title="Web3 Backend"
                         icon="/icons/code.svg"
                         description="I develop fully functional and complex backend systems."
-                        projects={10} />
+                        projects={150} />
                     <AboutCard
-                        title="Mobile"
+                        title="Automate"
                         icon="/icons/phone.svg"
-                        description="I develop cross-platform mobile applications."
-                        projects={7} />
+                        description="I develop automated solutions for Web2, Web3 and beyond."
+                        projects={50} />
                 </div>
                 
                 <div className="flex-full about-text">
