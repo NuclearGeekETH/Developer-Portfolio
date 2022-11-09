@@ -17,12 +17,12 @@ const Home: NextPage = () => {
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:site_name" content="PIckett - Web3 Developer" />
+        <meta property="og:site_name" content="Pickett - Web3 Developer" />
         <meta property="og:locale" content="en_GB" />
-        <title data-rh="true">PIckett - Web3 Developer</title>
+        <title data-rh="true">Pickett - Web3 Developer</title>
         <meta data-rh="true" property="og:type" content="website"/>
         <meta data-rh="true" property="og:title" content="Pickett - Web3 Developer"/>
-        <meta data-rh="true" property="og:image" content="/images/blaiti.png"/>
+        <meta data-rh="true" property="og:image" content="/images/pickett.jpg"/>
       </Head>
 
       {/* Header */}
