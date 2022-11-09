@@ -13,7 +13,7 @@ export default function NavBar() {
 
             <ul className="flex white">
                 <li>
-                    <Link href="/#header">Home</Link>
+                    <Link href="/#header">Home.</Link>
                 </li>
                 <li>
                     <Link href="/#about">About Me.</Link>
