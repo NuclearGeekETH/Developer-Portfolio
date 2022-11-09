@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;600;700&display=swap');
 
 body {
@@ -57,6 +61,8 @@ button {
 
 /* Header */
 nav {
+  position: sticky;
+  top: 0rem;
   padding: 1.1rem 5rem;
 }
 nav .logo {
