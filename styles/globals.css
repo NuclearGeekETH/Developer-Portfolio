@@ -64,6 +64,7 @@ nav {
   position: sticky;
   top: 0rem;
   padding: 1.1rem 5rem;
+  z-index: 10;
 }
 nav .logo {
   font-size: 1.5rem;
