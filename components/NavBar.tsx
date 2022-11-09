@@ -12,8 +12,8 @@ export default function NavBar() {
             <ConnectButton />
 
             <ul className="flex white">
-                <li className="green">
-                    <Link href="/">{"< Home />"}</Link>
+                <li>
+                    <Link href="/#header">Home</Link>
                 </li>
                 <li>
                     <Link href="/#about">About Me.</Link>
