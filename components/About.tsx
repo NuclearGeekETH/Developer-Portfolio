@@ -10,7 +10,7 @@ export default function About() {
                         title="Functional DApps"
                         icon="/icons/eth.svg"
                         description="I create DApps that are functional and aesthetic."
-                        projects={7} />
+                        projects={20} />
                     <AboutCard
                         title="Web3 Backend"
                         icon="/icons/code.svg"
