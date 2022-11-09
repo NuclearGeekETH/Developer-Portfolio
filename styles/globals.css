@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, p {
   color: #777777;
 }
 .green {
-  color: #4dba87;
+  color: #58C1B2;
 }
 .flex {
   display: flex;
@@ -51,7 +51,7 @@ button {
   color: #2D2E32;
   font-size: 0.8rem;
   font-weight: 600;
-  background-color: #4dba87;
+  background-color: #58C1B2;
   cursor: pointer;
 }
 
