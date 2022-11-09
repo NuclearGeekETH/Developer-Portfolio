@@ -10,7 +10,7 @@ export default function Header() {
             <div className="header flex light-bg">
                 <div>
                     <button>Web3 Developer</button>
-                    <h1 className="white">TEsting - What are we building today?</h1>
+                    <h1 className="white">What are we building today?</h1>
                     <p className="gray">I design and code beautiful simple things, and I love what I do.</p>
                     <a className="green" href="mailto:spickett84@gmail.com">send me an email</a>
                     <div></div>
