@@ -107,6 +107,7 @@ nav ul li {
   text-transform: uppercase;
   text-decoration: underline;
   cursor: pointer;
+  line-height: 2;
 }
 
 /* About */
