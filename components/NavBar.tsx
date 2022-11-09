@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 export default function NavBar() {
 
@@ -8,6 +9,7 @@ export default function NavBar() {
             <div className="logo white">
                 <Link href="/">Shawn Pickett</Link>
             </div>
+            <ConnectButton />
 
             <ul className="flex white">
                 <li className="green">
