@@ -61,7 +61,8 @@ button {
 
 /* Header */
 nav {
-  position: sticky;
+  position: fixed;
+  width: 100%;
   top: 0rem;
   padding: 1.1rem 5rem;
   z-index: 10;
