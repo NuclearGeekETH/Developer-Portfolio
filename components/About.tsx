@@ -34,9 +34,8 @@ export default function About() {
             <div className="flex partners justify-space">
                 <Image src="/images/partners/sfc.png" height={180} width={180} alt="flipperyfish" />
                 <Image src="/images/partners/artspark.png" height={93} width={327} alt="artspark" />
-                <Image src="/images/partners/khedma-lik.png" height={45} width={180} alt="khedma-lik" />
-                <Image src="/images/partners/directy.png" height={45} width={180} alt="directy" />
-                <Image src="/images/partners/telefy.png" height={45} width={180} alt="telefy" />
+                <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
+                <Image src="/images/partners/cno.png" height={110} width={275.34} alt="cno" />
             </div>
         </section>
     )
