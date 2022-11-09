@@ -20,7 +20,7 @@ export default function Footer() {
                     </a>
                 </li>
                 <li>
-                    <a href="https://github.com/blaiti" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/NuclearGeekETH" target="_blank" rel="noreferrer">
                         <Image src="/icons/github.svg" width={24} height={24} alt="github-icon" />
                     </a>
                 </li>
