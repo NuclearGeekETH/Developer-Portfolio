@@ -24,10 +24,10 @@ export default function About() {
                 </div>
                 
                 <div className="flex-full about-text">
-                    <h5 className="gray">Introduce</h5>
+                    {/* <h5 className="gray">Introduce</h5> */}
                     <h1 className="white">Hello, I&#39;m Shawn Pickett</h1>
                     <h3 className="white">Delivering better workflows in Web3.</h3>
-                    <p className="gray">I have extensive experience in Web3 backend and frontend. I build consistent products that solve problems. I automate everything.<br/><br/></p>
+                    <p className="gray">I have extensive experience in Web3 backend and frontend. I build consistent products that solve problems. I automate all the things.<br/><br/></p>
                 </div>
             </div>
 
