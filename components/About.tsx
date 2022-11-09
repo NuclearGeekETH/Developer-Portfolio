@@ -8,7 +8,7 @@ export default function About() {
                 <div className="flex-full">
                     <AboutCard
                         title="Functional DApps"
-                        icon="/icons/design.svg"
+                        icon="/icons/eth.svg"
                         description="I create DApps that are functional and aesthetic."
                         projects={7} />
                     <AboutCard
@@ -18,7 +18,7 @@ export default function About() {
                         projects={150} />
                     <AboutCard
                         title="Automate"
-                        icon="/icons/phone.svg"
+                        icon="/icons/gears.svg"
                         description="I develop automated solutions for Web2, Web3 and beyond."
                         projects={50} />
                 </div>
