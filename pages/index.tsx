@@ -58,7 +58,7 @@ const Home: NextPage = () => {
         <title data-rh="true">Pickett - Web3 Developer</title>
         <meta data-rh="true" property="og:type" content="website"/>
         <meta data-rh="true" property="og:title" content="Pickett - Web3 Developer"/>
-        <meta data-rh="true" property="og:image" content="/images/pickett.jpg"/>
+        <meta data-rh="true" property="og:image" content="/images/pickett.png"/>
       </Head>
 
       {/* Header */}
