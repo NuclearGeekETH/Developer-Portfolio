@@ -18,6 +18,9 @@ export default function NavBar() {
                 <li>
                     <Link href="/#about">About Me.</Link>
                 </li>
+                <li>
+                    <Link href="/#footer">Links.</Link>
+                </li>
             </ul>
         </nav>
     )

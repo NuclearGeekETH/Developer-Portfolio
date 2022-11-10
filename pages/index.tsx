@@ -61,15 +61,12 @@ const Home: NextPage = () => {
         <meta data-rh="true" property="og:image" content="/images/pickett.png"/>
       </Head>
 
-      {/* Header */}
       <Header />
 
       <main>
-        {/* About */}
         <About />
       </main>
 
-      {/* Footer */}
       <Footer />
       </RainbowKitProvider>
     </WagmiConfig>
