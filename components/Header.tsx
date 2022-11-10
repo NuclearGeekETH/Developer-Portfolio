@@ -16,7 +16,7 @@ export default function Header() {
                     <div></div>
                     <a className="green" href="https://aifrens.mypinata.cloud/ipfs/QmRM2v9YLy85niPpTtqyfSWXktoK58XGg4azNMqSVR9dD8">view my resume</a>
                 </div>
-                <Image src="/images/pickett.jpg" width={586.13} height={500} alt="pickett"  /> 
+                <Image src="/images/pickett.png" width={586.13} height={500} alt="pickett"  /> 
             </div>
         </header>
     )
