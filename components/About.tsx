@@ -1,5 +1,6 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
+import Link from "next/link";
 
 export default function About() {
     return (
@@ -32,10 +33,26 @@ export default function About() {
             </div>
 
             <div className="flex partners justify-space">
-                <Image src="/images/partners/sfc.png" height={180} width={180} alt="flipperyfish" />
-                <Image src="/images/partners/artspark.png" height={110} width={275.34} alt="artspark" />
-                <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
-                <Image src="/images/partners/cno.png" height={110} width={275.34} alt="cno" />
+                <a href="https://mint.slipperyfish.io/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/sfc.png" height={180} width={180} alt="slipperyfish" />
+                    </div>
+                </a>
+                <a href="https://artspark.aifrens.io/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/artspark.png" height={110} width={275.34} alt="artspark" />
+                    </div>
+                </a>
+                <a href="https://www.aifrens.io/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
+                    </div>
+                </a>
+                <a href="https://couturenightout.metamusee.art/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/cno.png" height={110} width={275.34} alt="cno" />
+                    </div>
+                </a>
             </div>
         </section>
     )
