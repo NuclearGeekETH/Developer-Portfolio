@@ -7,7 +7,7 @@ export default function Footer() {
 
     return (
         <footer id="footer" className="light-bg flex justify-space">
-            <span className="white">Copyright © {year} <Link href="/">Pickett</Link> - All rights reserved.</span>
+            <span className="white">© {year} <Link href="/">Shawn Pickett</Link></span>
             <ul className="flex">
                 <li>
                     <a href="https://twitter.com/NuclearGeeketh" target="_blank" rel="noreferrer">
