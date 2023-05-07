@@ -44,20 +44,20 @@ const Home: NextPage = () => {
         <WagmiConfig  client={wagmiClient}>
       <RainbowKitProvider theme={lightTheme({accentColor: '#58C1B2', accentColorForeground: 'black'})} chains={chains}>
       <Head>
-        <title>Pickett - Web3 Developer</title>
+        <title>Shawn Pickett - Web Developer</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Shawn Pickett" />
-        <meta name="keywords" content="ReactJS, NextJS" />
-        <meta name="description" content="I am an experienced web3 developer." />
+        <meta name="keywords" content="Shawn Pickett, Pickett, Shawn, web 3, Web3, web developer, developer, web3 developer, AI developer, api developer, ReactJS, NextJS" />
+        <meta name="description" content="I am an experienced web developer." />
         <meta charSet="UTF-8" />
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:site_name" content="Pickett - Web3 Developer" />
+        <meta property="og:site_name" content="Shawn Pickett - Web Developer" />
         <meta property="og:locale" content="en_GB" />
-        <title data-rh="true">Pickett - Web3 Developer</title>
+        <title data-rh="true">Shawn Pickett - Web3 Developer</title>
         <meta data-rh="true" property="og:type" content="website"/>
-        <meta data-rh="true" property="og:title" content="Pickett - Web3 Developer"/>
+        <meta data-rh="true" property="og:title" content="Shawn Pickett - Web3 Developer"/>
         <meta data-rh="true" property="og:image" content="/images/pickett.png"/>
       </Head>
 
