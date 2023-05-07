@@ -33,6 +33,16 @@ export default function About() {
             </div>
 
             <div className="flex partners justify-space">
+            <a href="https://www.mightymastery.com/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/mastery.png" height={121} width={240} alt="mighty mastery" />
+                    </div>
+                </a>
+                <a href="https://www.aifrens.io/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
+                    </div>
+                </a>
                 <a href="https://mint.slipperyfish.io/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/sfc.png" height={180} width={180} alt="slipperyfish" />
@@ -41,11 +51,6 @@ export default function About() {
                 <a href="https://artspark.aifrens.io/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/artspark.png" height={110} width={275.34} alt="artspark" />
-                    </div>
-                </a>
-                <a href="https://www.aifrens.io/" target="_blank" rel="noreferrer">
-                    <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
                     </div>
                 </a>
                 <a href="https://couturenightout.metamusee.art/" target="_blank" rel="noreferrer">
