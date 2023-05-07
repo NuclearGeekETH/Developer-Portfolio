@@ -9,7 +9,7 @@ export default function Header() {
             <NavBar />
             <div className="header flex light-bg">
                 <div>
-                    <h2 className="green">Web3 Developer</h2>
+                    <h2 className="green">Web Developer</h2>
                     <h1 className="white">What are we building today?</h1>
                     <p className="gray">I design and code elegant solutions to complex problems and I am passionate about what I do.</p>
                     <a className="green" href="mailto:spickett84@gmail.com">send me an email</a>
