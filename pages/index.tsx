@@ -57,7 +57,7 @@ const Home: NextPage = () => {
         <meta property="og:locale" content="en_GB" />
         <title data-rh="true">Shawn Pickett - Web3 Developer</title>
         <meta data-rh="true" property="og:type" content="website"/>
-        <meta data-rh="true" property="og:title" content="Shawn Pickett - Web3 Developer"/>
+        <meta data-rh="true" property="og:title" content="Shawn Pickett - Web Developer"/>
         <meta data-rh="true" property="og:image" content="/images/pickett.png"/>
       </Head>
 

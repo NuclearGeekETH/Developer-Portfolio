@@ -8,19 +8,19 @@ export default function About() {
             <div className="flex">
                 <div className="flex-full">
                     <AboutCard
-                        title="Functional DApps"
+                        title="Functional Web Apps"
                         icon="/icons/eth.svg"
-                        description="I create DApps that are functional and aesthetic."
+                        description="I create Web Apps that are functional and aesthetic."
                         projects={20} />
                     <AboutCard
-                        title="Web3 Backend"
+                        title="Backend"
                         icon="/icons/code.svg"
                         description="I develop fully functional and complex backend systems."
                         projects={150} />
                     <AboutCard
                         title="Automate"
                         icon="/icons/gears.svg"
-                        description="I develop automated solutions for Web2, Web3 and beyond."
+                        description="I develop automated solutions for a variety of industries."
                         projects={50} />
                 </div>
                 
