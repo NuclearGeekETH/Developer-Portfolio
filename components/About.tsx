@@ -43,7 +43,12 @@ export default function About() {
                     <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
                     </div>
                 </a>
-                <a href="https://mint.slipperyfish.io/" target="_blank" rel="noreferrer">
+                <a href="https://www.radiationsafetyexperts.com/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/rso.png" height={137} width={336} alt="aifrens" />
+                    </div>
+                </a>
+                {/* <a href="https://mint.slipperyfish.io/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/sfc.png" height={180} width={180} alt="slipperyfish" />
                     </div>
@@ -52,7 +57,7 @@ export default function About() {
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/artspark.png" height={110} width={275.34} alt="artspark" />
                     </div>
-                </a>
+                </a> */}
                 <a href="https://couturenightout.metamusee.art/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/cno.png" height={110} width={275.34} alt="cno" />
