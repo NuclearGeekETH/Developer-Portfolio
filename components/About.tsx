@@ -1,6 +1,5 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
-import Link from "next/link";
 
 export default function About() {
     return (
@@ -28,7 +27,7 @@ export default function About() {
                     {/* <h5 className="gray">Introduce</h5> */}
                     <h1 className="white">Hello, I&#39;m Shawn Pickett</h1>
                     <h3 className="white">Delivering better workflows.</h3>
-                    <p className="gray">An expert in Web2 and Web3 design, I am passionate about crafting user-centered products and automating processes. My work merges advanced 
+                    <p className="gray font-p22">An expert in Web2 and Web3 design, I am passionate about crafting user-centered products and automating processes. My work merges advanced 
                     technologies like AI and Blockchain, reinforcing my commitment to pushing the boundaries of design and development.<br/><br/></p>
                 </div>
             </div>

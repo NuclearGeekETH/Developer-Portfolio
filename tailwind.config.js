@@ -6,7 +6,11 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'p22': ['p22-underground', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
