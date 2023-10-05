@@ -15,7 +15,7 @@ export default function Header() {
                         my products.</p>
                     <a className="green" href="mailto:spickett84@gmail.com">send me an email</a>
                     <div></div>
-                    <a className="green" href="https://aifrens.mypinata.cloud/ipfs/QmbTkUqSJwcZvP7mVkDupngfFQM9KDeCvp8wb3ZC3c526X" target="_blank" rel="noreferrer">view my resume</a>
+                    <a className="green" href="/resume.pdf" target="_blank" rel="noreferrer">view my resume</a>
                 </div>
                 <Image src="/images/pickett.png" width={586.13} height={500} alt="pickett"  /> 
             </div>
