@@ -10,7 +10,9 @@ export default function Header() {
             <div className="header flex light-bg">
                 <div>
                     <h1 className="white">What are we building today?</h1>
-                    <p className="gray">I design and code elegant solutions to complex problems and I am passionate about what I do.</p>
+                    <p className="gray">I design and code elegant solutions to complex problems and I am passionate about what I do. I have extensive experience building and 
+                        maintaining products in Radiology and Radiation Safety along with Web2 and Web3 frontend and backend design. I love implementing AI and Blockchain into 
+                        my products.</p>
                     <a className="green" href="mailto:spickett84@gmail.com">send me an email</a>
                     <div></div>
                     <a className="green" href="https://aifrens.mypinata.cloud/ipfs/QmbTkUqSJwcZvP7mVkDupngfFQM9KDeCvp8wb3ZC3c526X" target="_blank" rel="noreferrer">view my resume</a>

@@ -11,17 +11,17 @@ export default function About() {
                         title="Functional Web Apps"
                         icon="/icons/eth.svg"
                         description="I create Web Apps that are functional and aesthetic."
-                        projects={20} />
+                        />
                     <AboutCard
                         title="Backend"
                         icon="/icons/code.svg"
                         description="I develop fully functional and complex backend systems."
-                        projects={150} />
+                        />
                     <AboutCard
                         title="Automate"
                         icon="/icons/gears.svg"
                         description="I develop automated solutions for a variety of industries."
-                        projects={50} />
+                        />
                 </div>
                 
                 <div className="flex-full about-text">
@@ -35,29 +35,19 @@ export default function About() {
             <div className="flex partners justify-space">
             <a href="https://www.mightymastery.com/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/mastery.png" height={121} width={240} alt="mighty mastery" />
+                    <Image src="/images/partners/mastery.png" height={121} width={240} alt="Mighty Mastery" />
                     </div>
                 </a>
                 <a href="https://www.aifrens.io/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="aifrens" />
+                    <Image src="/images/partners/aifrens.png" height={110} width={275.34} alt="AiFrens" />
                     </div>
                 </a>
                 <a href="https://www.radiationsafetyexperts.com/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/rso.png" height={137} width={336} alt="aifrens" />
+                    <Image src="/images/partners/rso.png" height={137} width={336} alt="Radiation Safety Experts" />
                     </div>
                 </a>
-                {/* <a href="https://mint.slipperyfish.io/" target="_blank" rel="noreferrer">
-                    <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/sfc.png" height={180} width={180} alt="slipperyfish" />
-                    </div>
-                </a>
-                <a href="https://artspark.aifrens.io/" target="_blank" rel="noreferrer">
-                    <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/artspark.png" height={110} width={275.34} alt="artspark" />
-                    </div>
-                </a> */}
                 <a href="https://couturenightout.metamusee.art/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/cno.png" height={110} width={275.34} alt="cno" />
@@ -72,10 +62,9 @@ type Props = {
     title: string,
     icon: string | StaticImageData,
     description: string,
-    projects: number
 }
 
-function AboutCard ({title, icon, description, projects} : Props) {
+function AboutCard ({title, icon, description} : Props) {
     return(
         <div className="light-bg about-card">
             <div className="flex justify-space">
@@ -83,7 +72,6 @@ function AboutCard ({title, icon, description, projects} : Props) {
                 <Image src={icon} width={28} height={28} alt={title} />
             </div>
             <p className="white">{description}</p>
-            <span className="gray">{projects.toString()} projects</span>
         </div>
     )
 }
