@@ -13,13 +13,13 @@ export default function Header() {
                     <p className="gray font-p22">Crafting thoughtful, elegant solutions to intricate challenges is not just my profession, it’s my passion. My expertise spans across Education, Radiology 
                     and Radiation Safety products to Web2 and Web3 design, with a special focus on both front and back end implementation. An avid advocate for disruptive 
                     technologies, I enjoy integrating AI and Blockchain into my creations, continuously pushing the boundaries of development and design.</p>
-                    <div className="space-x-2">
-                        <button>
+                    <div className="space-x-4">
+                        <button className="text-[#58C1B2] border-2 border-[#58C1B2] rounded-lg p-1 px-2 hover:bg-[#58C1B2] hover:text-black">
                             <a className="" href="mailto:spickett84@gmail.com">
                                 send me an email
                             </a>
                         </button>
-                        <button>
+                        <button className="text-[#58C1B2] border-2 border-[#58C1B2] rounded-lg p-1 px-2 hover:bg-[#58C1B2] hover:text-black">
                             <a className="" href="/resume.pdf" target="_blank" rel="noreferrer">
                                 view my resume
                             </a>
