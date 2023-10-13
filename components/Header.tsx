@@ -28,7 +28,7 @@ export default function Header() {
                         </button>
                     </div>
                 </div>
-                <Image src="/images/pickett.png" width={586.13} height={500} alt="pickett"  /> 
+                <Image className="fixed bottom-0" src="/images/pickett.png" width={586.13} height={500} alt="Shawn Pickett Headshot"  /> 
             </div>
         </header>
     )

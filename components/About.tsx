@@ -45,12 +45,17 @@ export default function About() {
                 </a>
                 <a href="https://www.radiationsafetyexperts.com/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/rso.png" height={137} width={336} alt="Radiation Safety Experts" />
+                    <Image src="/images/partners/rso.png" height={121} width={297} alt="Radiation Safety Experts" />
+                    </div>
+                </a>
+                <a href="https://www.immortaldogsnft.com/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/immortal.png" height={137} width={336} alt="Immortal Dogs" />
                     </div>
                 </a>
                 <a href="https://couturenightout.metamusee.art/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
-                    <Image src="/images/partners/cno.png" height={110} width={275.34} alt="cno" />
+                    <Image src="/images/partners/cno.png" height={110} width={275.34} alt="Couture Night Out" />
                     </div>
                 </a>
             </div>
