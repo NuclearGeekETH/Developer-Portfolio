@@ -47,7 +47,7 @@ const Home: NextPage = () => {
         <title>Shawn Pickett</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Shawn Pickett" />
-        <meta name="keywords" content="Shawn Pickett, Pickett, Shawn, Radiation Safety, Radiation Safety Officer, RSO, Nuclear Medicine, web 3, Web3, web developer, developer, web3 developer, AI developer, api developer, ReactJS, NextJS" />
+        <meta name="keywords" content="Shawn Pickett, Pickett, Shawn, Radiation Safety, Radiation Safety Officer, RSO, Nuclear Medicine, web 3, Web3, web developer, developer, web3 developer, AI developer, api developer, ReactJS, NextJS, Education, Ethereum" />
         <meta name="description" content="I am an experienced web developer." />
         <meta charSet="UTF-8" />
         <meta name="theme-color" content="#2D2E32" />
@@ -55,7 +55,7 @@ const Home: NextPage = () => {
 
         <meta property="og:site_name" content="Shawn Pickett" />
         <meta property="og:locale" content="en_GB" />
-        <title data-rh="true">Shawn Pickett - Web3 Developer</title>
+        <title data-rh="true">Shawn Pickett</title>
         <meta data-rh="true" property="og:type" content="website"/>
         <meta data-rh="true" property="og:title" content="Shawn Pickett"/>
         <meta data-rh="true" property="og:image" content="/images/pickett.png"/>
