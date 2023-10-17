@@ -53,6 +53,11 @@ export default function About() {
                     <Image src="/images/partners/immortal.png" height={137} width={336} alt="Immortal Dogs" />
                     </div>
                 </a>
+                <a href="https://rad-track.vercel.app/" target="_blank" rel="noreferrer">
+                    <div className="hover:cursor-pointer">
+                    <Image src="/images/partners/radtrack.png" height={137} width={336} alt="RadTrack" />
+                    </div>
+                </a>
                 <a href="https://couturenightout.metamusee.art/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/cno.png" height={110} width={275.34} alt="Couture Night Out" />
