@@ -32,7 +32,7 @@ export default function About() {
                 </div>
             </div>
 
-            <div className="flex partners justify-space">
+            <div className="flex pt-12 justify-space">
             <a href="https://www.mightymastery.com/" target="_blank" rel="noreferrer">
                     <div className="hover:cursor-pointer">
                     <Image src="/images/partners/mastery.png" height={121} width={240} alt="Mighty Mastery" />
