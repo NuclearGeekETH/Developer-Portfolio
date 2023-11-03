@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Shawn Pickett" />
         <meta name="keywords" content="Shawn Pickett, Pickett, Shawn, Radiation Safety, Radiation Safety Officer, RSO, Nuclear Medicine, web 3, Web3, web developer, developer, web3 developer, AI developer, api developer, ReactJS, NextJS, Education, Ethereum" />
-        <meta name="description" content="I am an experienced web developer." />
+        <meta name="description" content="I am an experienced product director, radiation safety officer, full stack developer, nuclear medicine, CT and radiation safety technologist, and healthcare leader." />
         <meta charSet="UTF-8" />
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
